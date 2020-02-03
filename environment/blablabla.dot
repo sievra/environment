@@ -1,0 +1,5 @@
+digraph G {
+0 [fontname="Microsoft Sans Serif",  fontsize=14, shape=circle, label="firstnah"];
+1 [fontname="Microsoft Sans Serif",  fontsize=14, shape=circle, label="second"];
+0 -> 1 [ fontname="Microsoft Sans Serif",  fontsize=13, label="5454"];
+}

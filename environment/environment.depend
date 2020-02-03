@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1524803606 source:d:\c++\hs\graphs\environment\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<vector>
+	<set>
+	<queue>
+	<unordered_set>
+	<unordered_map>
+	<windows.h>
+
